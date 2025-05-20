@@ -3,6 +3,7 @@
 **Crownix** is a web-based multiplayer chess application built using [Next.js](https://nextjs.org/). It offers a real-time, feature-rich online chess experience, complete with timers, game history, spectator mode, and customizable UI options.
 
 ---
+## The main repo is private
 
 ## 🚀 Features
 
